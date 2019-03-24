@@ -1,2 +1,2 @@
 # graph-theory-101
-Implementing graph algorithms using Java
+Implementing graph algorithms using Java.
